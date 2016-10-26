@@ -11,6 +11,7 @@ namespace Project1
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to day 2");
+            Console.WriteLine("change 1");
         }
     }
 }
